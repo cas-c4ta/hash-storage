@@ -1,0 +1,14 @@
+.button {
+  background: palegreen;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  display: inline-block;
+}
+.button:hover {
+  background: lime;
+}
+
+#history {
+  background: papayawhip;
+}
